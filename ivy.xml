@@ -1,0 +1,11 @@
+<ivy-module version="2.0">
+  <info organisation="myorg"
+        module="mymodule"
+        />
+        <!-- https://mvnrepository.com/artifact/org.webjars.bower/angular -->
+        <dependecies>
+			<dependency org="org.webjars.bower" name="angular" rev="1.6.4"/>
+		</dependecies>
+
+        
+</ivy-module>
